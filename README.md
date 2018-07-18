@@ -18,8 +18,7 @@ python 2.7x, tflearn, pil, pickle, numpy, scipy, csv
 usage:
 python cnn_faces_multiple3.py
 
-dataset:
-http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html
+dataset: http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html
 
 tested:
 ..on a lambda Labs Lambda Single computer (1 GPU) https://lambdal.com/products/single 
