@@ -24,6 +24,10 @@ http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html
 tested:
 ..on a lambda Labs Lambda Single computer (1 GPU) https://lambdal.com/products/single 
 
+publication in which the results were described:
+
+https://arxiv.org/abs/1711.08801v1
+
 
 sample comments in verbose mode:
 
