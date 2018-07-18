@@ -57,5 +57,3 @@ sample output:
 07 Feb 2018 06:22:22 feature #6: Big_Lips ... accuracy: 75.6820% with 50 passes
 07 Feb 2018 07:56:10 feature #7: Big_Nose ... accuracy: 76.6140% with 50 passes
 07 Feb 2018 09:29:59 feature #8: Black_Hair ... accuracy: 76.2240% with 50 passes
-
-
