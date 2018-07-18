@@ -26,6 +26,7 @@ tested:
 
 
 sample comments in verbose mode:
+
 iteration:  0
 n_epochs:  50
 number of images:  100000
@@ -49,6 +50,7 @@ training with 50 passes...
 
 
 sample output:
+
 07 Feb 2018 01:41:20 feature #3: Bags_Under_Eyes ... accuracy: 79.8520% with 50 passes
 07 Feb 2018 03:15:05 feature #4: Bald ... accuracy: 97.7280% with 50 passes
 07 Feb 2018 04:48:46 feature #5: Bangs ... accuracy: 85.1500% with 50 passes
