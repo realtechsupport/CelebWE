@@ -21,11 +21,11 @@ python cnn_faces_multiple3.py
 dataset: 
 http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html
 
-tested:
-..on a lambda Labs Lambda Single computer (1 GPU) 
+tested on:
+Lambda Labs 'Lambda Single' computer (1 GPU) 
 https://lambdal.com/products/single 
 
-publication in which the results were described:
+publication:
 https://arxiv.org/abs/1711.08801v1
 
 
