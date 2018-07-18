@@ -28,6 +28,7 @@ publication in which the results were described:
 https://arxiv.org/abs/1711.08801v1
 
 
+
 sample comments in verbose mode:
 
 iteration:  0
@@ -50,6 +51,7 @@ convolution and pooling sequence:  1
 finished convolution and pooling
 wraping network in a model
 training with 50 passes...
+
 
 
 sample output:
