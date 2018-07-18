@@ -54,7 +54,7 @@ for k in attrvalues.keys():
         labelsall.append(-1)
 
 #show the images
-location = 'home/test/'
+location = '/home/test/'
 fname = location+str(sampleid).zfill(6)+'.jpg'
 img = sm.imread(fname)
 plt.imshow(img)
