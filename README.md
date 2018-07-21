@@ -5,7 +5,7 @@ general:
 Code experiments to explore the classification and generation of beauty as represented in neural networks (a convolutional neural network {CNN} and a generative adversarial neural network {GAN}). 
 Test database for the CNN is the CelebA dataset (http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) and for the GAN a video collected in a supermarket. 
 
-CNN------------------------------------------------
+CNN ------------------------------------------------
 
 A vanilla convolutional neural network architecture (see image) under tflearn. Set number of epochs, training data percentage and features to select from the set of 40 possible features. Network architecture: see CNN_architecture.png
 
@@ -20,28 +20,17 @@ usage:
 python cnn_faces_multiple3.py
 
 
+
 GAN ------------------------------------------------
-A pytorch implementation of a the dcgan network (https://github.com/pytorch/examples/tree/master/dcgan), altered to create a 128 x 128 pixel output image.
+A pytorch implementation of a the dcgan network (https://github.com/pytorch/examples/tree/master/dcgan), altered to create 128 x 128 pixel output images.
 
 usage:
 
-usage: main_p128.py --dataset DATASETname --dataroot DATAROOTlocation --imageSize 128 --cuda
+usage: GAN_p128.py --dataset DATASETname --dataroot DATAROOTlocation --imageSize 128 --cuda
 
 
 requirements:
-
 python 2.7x, torch, cuda
-
-license for all code:
-GNU General Public Licence v3.0
-
-
-tested on:
-Lambda Labs 'Lambda Single' computer (1 GPU) 
-https://lambdal.com/products/single 
-
-publication:
-https://arxiv.org/abs/1711.08801v1
 
 
 sample output CNN:
@@ -54,8 +43,17 @@ sample output CNN:
 07 Feb 2018 09:29:59 feature #8: Black_Hair ... accuracy: 76.2240% with 50 passes
 
 
-sample output GAN trained on videos inside a supermarket:
+sample output GAN (trained on avideo of a playground):
 
-fake_supermarket_100e.mp4
+fake_playground.png
 
 
+tested on:
+Lambda Labs 'Lambda Single' computer (1 GPU) 
+https://lambdal.com/products/single 
+
+publication on CNN experiments:
+https://arxiv.org/abs/1711.08801v1
+
+license for all code:
+GNU General Public Licence v3.0
