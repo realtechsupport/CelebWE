@@ -57,3 +57,6 @@ https://arxiv.org/abs/1711.08801v1
 
 license for all code:
 GNU General Public Licence v3.0
+
+contributors:
+marc böhlen, varun chandola, amol salunkhe
