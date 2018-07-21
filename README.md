@@ -43,7 +43,7 @@ sample output CNN:
 07 Feb 2018 09:29:59 feature #8: Black_Hair ... accuracy: 76.2240% with 50 passes
 
 
-sample output GAN (trained on avideo of a playground):
+sample output GAN (trained images extracted from a 1080 HD 25fps video of a playground):
 
 fake_playground.png
 
