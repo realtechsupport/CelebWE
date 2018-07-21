@@ -3,7 +3,7 @@
 general:
 
 Code experiments to explore the classification and generation of beauty as represented in neural networks (a convolutional neural network {CNN} and a generative adversarial neural network {GAN}). 
-Test database for the CNN is the CelebA dataset (http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) and for the GAN images created from a video of a playground (1060 HD, 25fps converted to .png with avconv). 
+Test database for the CNN is the CelebA dataset (http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) and for the GAN images created from a video of a playground (1080HD - 25fps; converted to .png with avconv). 
 
 CNN ------------------------------------------------
 
