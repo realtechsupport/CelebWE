@@ -3,7 +3,7 @@
 general:
 
 Code experiments to explore the classification and generation of beauty as represented in neural networks (a convolutional neural network {CNN} and a generative adversarial neural network {GAN}). 
-Test database for the CNN is the CelebA dataset (http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) and for the GAN a video collected in a supermarket. 
+Test database for the CNN is the CelebA dataset (http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) and for the GAN images created from a video of a playground (1060 HD, 25fps converted to .png with avconv). 
 
 CNN ------------------------------------------------
 
@@ -43,7 +43,7 @@ sample output CNN:
 07 Feb 2018 09:29:59 feature #8: Black_Hair ... accuracy: 76.2240% with 50 passes
 
 
-sample output GAN (trained images extracted from a 1080 HD 25fps video of a playground):
+sample output GAN:
 
 fake_playground.png
 
