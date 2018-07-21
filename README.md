@@ -22,6 +22,7 @@ python cnn_faces_multiple3.py
 
 
 GAN ------------------------------------------------
+
 A pytorch implementation of a the dcgan network (https://github.com/pytorch/examples/tree/master/dcgan), altered to create 128 x 128 pixel output images.
 
 usage:
