@@ -42,21 +42,14 @@ sample output CNN:
 07 Feb 2018 07:56:10 feature #7: Big_Nose ... accuracy: 76.6140% with 50 passes
 07 Feb 2018 09:29:59 feature #8: Black_Hair ... accuracy: 76.2240% with 50 passes
 
-
-sample output GAN:
-
-fake_playground.png
-
+sample output GAN: fake_playground.png
 
 tested on:
 Lambda Labs 'Lambda Single' computer (1 GPU) 
 https://lambdal.com/products/single 
 
-publication on CNN experiments:
-https://arxiv.org/abs/1711.08801v1
+publication on CNN experiments: https://arxiv.org/abs/1711.08801v1
 
-license for all code:
-GNU General Public Licence v3.0
+license for all code: GNU General Public Licence v3.0
 
-contributors:
-marc böhlen, varun chandola, amol salunkhe
+contributors: marc böhlen, varun chandola, amol salunkhe
