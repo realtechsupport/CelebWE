@@ -25,14 +25,10 @@ GAN ------------------------------------------------
 
 A pytorch implementation of a the dcgan network (https://github.com/pytorch/examples/tree/master/dcgan), altered to create 128 x 128 pixel output images.
 
-usage:
-
 usage: GAN_p128.py --dataset DATASETname --dataroot DATAROOTlocation --imageSize 128 --cuda
-
 
 requirements:
 python 2.7x, torch, cuda
-
 
 sample output CNN:
 
