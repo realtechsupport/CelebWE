@@ -1,4 +1,4 @@
-# celebWE
+# CelebWE
 
 general:
 
